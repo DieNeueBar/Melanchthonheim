@@ -487,7 +487,7 @@
         {
          "columns":6,
          "firstgid":583,
-         "image":"..\/MelanchthonTest\/tilesets\/WaterAndFire_CC0.png",
+         "image":"tilesets\/WaterAndFire_CC0.png",
          "imageheight":256,
          "imagewidth":192,
          "margin":0,
@@ -592,6 +592,49 @@
          "name":"GardenExpansion",
          "spacing":0,
          "tilecount":900,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":3,
+         "firstgid":1531,
+         "image":"lpc_christmas_pack\/Fireplace Fire - Burning.png",
+         "imageheight":64,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Xmas1",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":2
+                        }],
+                 "id":0
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":1537,
+         "image":"lpc_christmas_pack\/Christmas Wall Decor.png",
+         "imageheight":96,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Xmas2",
+         "spacing":0,
+         "tilecount":18,
          "tileheight":32,
          "tilewidth":32
         }],
