@@ -475,7 +475,7 @@
         {
          "columns":6,
          "firstgid":583,
-         "image":"..\/MelanchthonTest\/tilesets\/WaterAndFire_CC0.png",
+         "image":"tilesets\/WaterAndFire_CC0.png",
          "imageheight":256,
          "imagewidth":192,
          "margin":0,
@@ -488,7 +488,7 @@
         {
          "columns":18,
          "firstgid":631,
-         "image":"tilesets\/cija_32x32_expansion for Pipoya_shortened_CC0.png",
+         "image":"tilesets\/GardenExpension.png",
          "imageheight":1600,
          "imagewidth":576,
          "margin":0,
